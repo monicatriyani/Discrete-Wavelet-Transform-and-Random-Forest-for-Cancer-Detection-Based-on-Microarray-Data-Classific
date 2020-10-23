@@ -15,3 +15,7 @@ Classifier :
 Preprocessing : 
 - Split data into training data and testing data. 
 - Normalization 
+
+Hyperparameter Tuning : 
+- Random Search
+- Grid Search 
